@@ -5,7 +5,7 @@
 ~ Getting it up ~
 Requires Python 2.7.x 
 Requires Pygame library 1.9.x
-	- use x86/x64 based on your system
+	- use x86/x64g based on your system
 
 Once requirements have been filled, using terminal/powershell
 to change to the directory with game.py and type:
