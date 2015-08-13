@@ -1,3 +1,13 @@
 charlie 7984
 jane 104
 none 48
+charlie 137
+charlie 473
+charlie 732
+charlie 0
+charlie 0
+charlie 672
+charlie 2755
+charlie 0
+charlie 0
+charlie 3168
