@@ -2,16 +2,19 @@
 
 Math game made with Pygame library (.py)
 
-~ Getting it up ~
+## ~ Getting it up ~
+
 Requires Python 2.7.x 
 Requires Pygame library 1.9.x
-	- use x86/x64g based on your system
+	- with Python 2.7.x 32bit, download the 32bit [Pygame library](http://www.pygame.org/download.shtml "Pygame library") 
+		
 
 Once requirements have been filled, using terminal/powershell
-to change to the directory with game.py and type:
-python game.py
+to change to the directory to additionmania where you can see game.py and type:
 
-~ How to play ~
+`python game.py`
+
+## ~ How to play ~
 
 To play this game is very simple. The objective of the game is
 to add up the sum that is displayed on the top left corner. If
@@ -26,19 +29,19 @@ the bonus multiplier will increase your score.
 Start the game, select a game style, time attack or just normal 
 play.
 
-- Time Attack -
+### - Time Attack -
 Race against time to add up to your sum. Harder diffuculties 
 will give more time, but limit the amount of mistakes you are
 allowed to make. 
 
-- Normal Attack -
+### - Normal Attack -
 This practice mode can also be very fun, take as much time as
 you want to add up the sums indicated.
 
 More instructions with graphics are available in game.
 
 
-~ Features ~
+## ~ Features ~
 
 1. Small screen, 800x600 
 2. Requires math, and fast reflexes 
