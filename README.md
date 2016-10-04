@@ -2,8 +2,6 @@
 
 Math game made with Pygame library (.py)
 
-[![Additionmania Demo](http://img.youtube.com/vi/ci2zWz-nujg/0.jpg)](http://www.youtube.com/watch?v=ci2zWz-nujg)
-
 ## ~ Getting it up ~
 
 Requires Python 2.7.x 
